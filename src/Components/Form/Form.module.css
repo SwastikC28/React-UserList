@@ -1,0 +1,12 @@
+.form-holder {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.form-holder label {
+    margin: 0.5rem 0;
+}
+
+.form-holder input {
+    margin-bottom: 1rem;
+}

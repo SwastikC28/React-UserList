@@ -1,0 +1,13 @@
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.App {
+  margin: 0 auto;
+
+}
+
+.App>p {
+  text-align: center;
+  margin: 2rem;
+}
