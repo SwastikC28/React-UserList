@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-UserList/static/css/main.49775f73.css",
+    "main.js": "/React-UserList/static/js/main.cb274aec.js",
+    "index.html": "/React-UserList/index.html",
+    "main.49775f73.css.map": "/React-UserList/static/css/main.49775f73.css.map",
+    "main.cb274aec.js.map": "/React-UserList/static/js/main.cb274aec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49775f73.css",
+    "static/js/main.cb274aec.js"
+  ]
+}
