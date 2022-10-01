@@ -34,7 +34,7 @@ const DetailsForm = (props) => {
         if (enteredData.age < 0) {
             setErrorState({
                 error: "Invalid Input",
-                message: "Age must be greate than 0."
+                message: "Age must be greater than 0."
             })
             return;
         }
